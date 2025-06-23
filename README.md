@@ -1,3 +1,5 @@
 # studdy-buddy
-fortend:nehal
+<br>
+frontend:nehal
+<br>
 backend:shivani
